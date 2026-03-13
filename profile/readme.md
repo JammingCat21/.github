@@ -7,7 +7,7 @@ You can find all plugins that I create for my videos.
 If you do not see one here, then it was not mine, check the video description!
 
 ## Links
-[Discord](https://discord.gg/3y9NG76U8T) / [Ko-fi](https://ko-fi.com/jammerz)
+[Youtube](https://www.youtube.com/@JammingCat21) / [Discord](https://discord.gg/3y9NG76U8T) / [Ko-fi](https://ko-fi.com/jammerz)
 
 ## FAQ
 ### XYZ is outdated / no longer works.
