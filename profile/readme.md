@@ -1,4 +1,3 @@
-![pfp](https://github.com/user-attachments/assets/a9498add-841e-4bd1-8715-273753ae0197)
 # JammingCat21 
 This is the official organization for the JammingCat21 Youtube Channel.
 
