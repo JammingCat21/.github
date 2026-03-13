@@ -28,6 +28,9 @@ If you do not see one here, then it was not mine, check the video description!
 - [Spigot API](https://hub.spigotmc.org/javadocs/spigot/)
 - [General Spigot Info](https://www.spigotmc.org/wiki/spigot-plugin-development/)
 
+### Can you make something for me?
+- Message me on Discord. My fee is $10.
+
 ## Terms
 This follows for every single item in this organization.
 - You are free to alter, add to, redistribute, create content, and share.
