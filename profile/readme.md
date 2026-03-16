@@ -9,6 +9,10 @@ If you do not see one here, then it was not mine, check the video description!
 [Youtube](https://www.youtube.com/@JammingCat21) / [Discord](https://discord.gg/3y9NG76U8T) / [Ko-fi](https://ko-fi.com/jammerz)
 
 ## FAQ
+### What server do your plugins work on?
+- Only Bukkit / Spigot / Paper
+- There will be no ports made for other server software / modded servers.
+
 ### XYZ is outdated / no longer works.
 - I am not obligated to maintain anything once posted here.
 - The source code is super easy to tinker with.
