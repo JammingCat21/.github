@@ -1,12 +1,16 @@
 # JammingCat21 
-This is the official organization for the JammingCat21 Youtube Channel.
+The official organization for the JammingCat21 Youtube Channel.
 
-You can find all plugins that I create for my videos.
+### My plugins are free of charge! In order to support me, check the links below:
+- [DOWNLOADS ARE HERE.](https://modrinth.com/user/MavenWare)
+- [Youtube](https://www.youtube.com/@JammingCat21)
+- [Discord](https://discord.gg/3y9NG76U8T)
+- [Ko-fi](https://ko-fi.com/jammerz)
 
-If you do not see one here, then it was not mine, check the video description!
+## Our Github
+This site is meant for bug reporting, community development, and fostering a place where others can learn and have fun.
 
-## Links
-[Youtube](https://www.youtube.com/@JammingCat21) / [Discord](https://discord.gg/3y9NG76U8T) / [Ko-fi](https://ko-fi.com/jammerz)
+If you do not see a plugin/mod here then it was not mine. Check the video description for the proper link.
 
 ## FAQ
 ### What server do your plugins work on?
@@ -14,23 +18,24 @@ If you do not see one here, then it was not mine, check the video description!
 - There will be no ports made for other server software / modded servers.
 
 ### XYZ is outdated / no longer works.
-- I am not obligated to maintain anything once posted here.
-- The source code is super easy to tinker with.
-- If you insist, [donate $5](https://ko-fi.com/jammerz), message me on [Discord](https://discord.gg/3y9NG76U8T), and I can update it for you.
+- Maintenance will be provided for as long as XYZ Project retains interest.
+- Can expect bug fixing, updating to new versions, etc.
+- Backports or specific requests require a [donation](https://ko-fi.com/jammerz) but first [message me.](https://discord.gg/3y9NG76U8T). 
 
 ### Can I contribute?
-- There is no expectation of longevity.
-- You are welcome to if you recognize a repo becoming active/popular.
-- Do not waste your time; It is as valuable as mine. ❤️
+- Everyone is welcome to contribute.
+- Follow basic standards with making PRs.
 
 ### Can I make videos / share / edit your plugins?
-- Read terms below.
+- Absolutely but read terms below.
 
 ### Can you teach me? / How can I do this?
 - In this order below. The playlist is long but once you watch the first 5 or so, you can manage yourself.
+- Download any IDE but [IntelliJ](https://www.jetbrains.com/idea/download/?section=windows) is tailormade for Minecraft Development.
 - [Kody Simpson Playlist](https://www.youtube.com/playlist?list=PLfu_Bpi_zcDNEKmR82hnbv9UxQ16nUBF7)
 - [Spigot API](https://hub.spigotmc.org/javadocs/spigot/)
 - [General Spigot Info](https://www.spigotmc.org/wiki/spigot-plugin-development/)
+- If you do not want the excessive AI autocomplete of IntelliJ, download this older version [here.](https://archive.org/details/ideaIC-2024.3.5)
 
 ### Can you make something for me?
 - Message me on Discord. My fee is $10.
@@ -41,4 +46,4 @@ This follows for every single item in this organization.
 - Please provide credit or link to this page in your video description.
 - Do not place my work behind paywalls.
 - Do not claim these works as your own.
-- I am not responsible for any sort of damages caused by distributions not posted by me. To be safe, download only here.
+- I am not responsible for any sort of damages caused by distributions not posted by me. To be safe, [download only here.](https://modrinth.com/user/MavenWare)
