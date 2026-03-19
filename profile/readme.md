@@ -5,7 +5,7 @@ The official organization for the JammingCat21 Youtube Channel.
 - [DOWNLOADS ARE HERE.](https://modrinth.com/user/JammingCat21)
 - [Youtube](https://www.youtube.com/@JammingCat21)
 - [Discord](https://discord.gg/3y9NG76U8T)
-- [Ko-fi](https://ko-fi.com/jammerz)
+- [Ko-fi](https://ko-fi.com/jammingcat21)
 
 ## Our Github
 This site is meant for bug reporting, community development, and fostering a place where others can learn and have fun.
