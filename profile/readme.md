@@ -2,7 +2,7 @@
 The official organization for the JammingCat21 Youtube Channel.
 
 ### My plugins are free of charge! In order to support me, check the links below:
-- [DOWNLOADS ARE HERE.](https://modrinth.com/user/MavenWare)
+- [DOWNLOADS ARE HERE.](https://modrinth.com/user/JammingCat21)
 - [Youtube](https://www.youtube.com/@JammingCat21)
 - [Discord](https://discord.gg/3y9NG76U8T)
 - [Ko-fi](https://ko-fi.com/jammerz)
