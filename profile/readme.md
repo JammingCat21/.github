@@ -46,4 +46,4 @@ This follows for every single item in this organization.
 - Please provide credit or link to this page in your video description.
 - Do not place my work behind paywalls.
 - Do not claim these works as your own.
-- I am not responsible for any sort of damages caused by distributions not posted by me. To be safe, [download only here.](https://modrinth.com/user/MavenWare)
+- I am not responsible for any sort of damages caused by distributions not posted by me. To be safe, [download only here.](https://modrinth.com/user/JammingCat21)
