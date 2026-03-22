@@ -4,7 +4,7 @@ The official organization for the JammingCat21 Youtube Channel.
 ### My plugins are free of charge! In order to support me, check the links below:
 - [DOWNLOADS ARE HERE.](https://modrinth.com/user/JammingCat21)
 - [Youtube](https://www.youtube.com/@JammingCat21)
-- [Discord](https://discord.gg/3y9NG76U8T)
+- [Discord](https://discord.gg/pfH8tN35sr)
 - [Ko-fi](https://ko-fi.com/jammingcat21)
 
 ## Our Github
@@ -20,7 +20,7 @@ If you do not see a plugin/mod here then it was not mine. Check the video descri
 ### XYZ is outdated / no longer works.
 - Maintenance will be provided for as long as XYZ Project retains interest.
 - Can expect bug fixing, updating to new versions, etc.
-- Backports or specific requests require a [donation](https://ko-fi.com/jammerz) but first [message me.](https://discord.gg/3y9NG76U8T). 
+- Backports or specific requests require a [donation](https://ko-fi.com/jammerz) but first [message me.](https://discord.gg/pfH8tN35sr). 
 
 ### Can I contribute?
 - Everyone is welcome to contribute.
